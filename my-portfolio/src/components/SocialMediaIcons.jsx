@@ -11,11 +11,11 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.linkedin.com/in/abdullah-al-mamun-a2b5331bb/"
+        href="https://github.com/datapirateX"
         target="_blank"
         rel="noreferrer"
       >
-        <img class="object-cover h-8 w-8" alt="linkedin-link" src="../assets/github.png" />
+        <img class="object-cover h-8 w-8 rounded-2xl" alt="linkedin-link" src="../assets/github.png" />
       </a>
       <a
         className="hover:opacity-50 transition duration-500"

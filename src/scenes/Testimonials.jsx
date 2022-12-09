@@ -41,7 +41,7 @@ const Testimonials = () => {
         >
           
           <p className="text-center text-xl">
-          "Mamun was always a great coworker, very smart guy with a solution-oriented approach to whatever came to us. Thanks to him the company made a huge progress in our app, and I would recommend him to anyone that wants smart people in their team."
+          "He was always a great coworker, very smart guy with a solution-oriented approach to whatever came to us. Thanks to him the company made a huge progress in our app, and I would recommend him to anyone that wants smart people in their team."
           </p>
         </motion.div>
 
@@ -58,7 +58,7 @@ const Testimonials = () => {
           }}
         >
           <p className="text-center text-xl">
-          "I was impressed by Mamun's ability to handle any situation calmly and patiently, even with the toughest clients. This natural skill of his has helped us grab many clients throughout our journey."
+          "I was impressed by his ability to handle any situation calmly and patiently, even with the toughest clients. This natural skill of his has helped us grab many clients throughout our journey."
           </p>
         </motion.div>
 
